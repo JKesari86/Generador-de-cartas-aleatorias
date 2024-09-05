@@ -16,7 +16,7 @@ window.addEventListener("load", () => {
   ];
 
   let symbol = ["♠", "♥", "♦", "♣"];
-  let colors = ["red", "green"];
+  let colors = ["red", "black"];
 
   let cardSymbolHeader = document.getElementById("card-symbol-header");
   let cardValue = document.getElementById("card-value");
